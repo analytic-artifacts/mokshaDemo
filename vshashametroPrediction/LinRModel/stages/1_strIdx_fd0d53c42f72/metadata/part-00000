@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexer","timestamp":1471933827218,"sparkVersion":"1.6.0","uid":"strIdx_fd0d53c42f72","paramMap":{"handleInvalid":"error","outputCol":"PERIODIDX","inputCol":"PERIOD"}}
