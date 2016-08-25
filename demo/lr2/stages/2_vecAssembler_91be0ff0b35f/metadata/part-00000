@@ -1,1 +1,1 @@
-{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1472128168566,"sparkVersion":"1.6.0","uid":"vecAssembler_91be0ff0b35f","paramMap":{"outputCol":"features","inputCols":["price_first_item_purchased","pages_visited","campaign","country_gdp_cap","gender_idx"]}}
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1472128671089,"sparkVersion":"1.6.0","uid":"vecAssembler_91be0ff0b35f","paramMap":{"outputCol":"features","inputCols":["price_first_item_purchased","pages_visited","campaign","country_gdp_cap","gender_idx"]}}
