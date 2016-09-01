@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1472731144746,"sparkVersion":"1.6.0","uid":"vecAssembler_3eccf963ff5c","paramMap":{"outputCol":"features","inputCols":["age","price_first_item_purchased","pages_visited","campaign","country_gdp_cap","genderIdx","countryIdx"]}}
