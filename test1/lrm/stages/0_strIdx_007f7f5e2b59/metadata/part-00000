@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1473685302115,"sparkVersion":"1.6.0","uid":"strIdx_007f7f5e2b59","paramMap":{"handleInvalid":"error","inputCol":"customer_value_segment","outputCol":"label"}}
