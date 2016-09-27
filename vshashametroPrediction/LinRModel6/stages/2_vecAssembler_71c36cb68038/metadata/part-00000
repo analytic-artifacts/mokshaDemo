@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1474969800080,"sparkVersion":"1.6.0","uid":"vecAssembler_71c36cb68038","paramMap":{"outputCol":"features","inputCols":["STATION_IDX","PERIODIDX","DATEMONTHINT"]}}
